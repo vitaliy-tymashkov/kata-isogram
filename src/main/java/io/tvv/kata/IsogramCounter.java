@@ -12,7 +12,7 @@ isIsogram "Dermatoglyphics" == true
 isIsogram "aba" == false
 isIsogram "moOse" == false -- ignore letter case
 */
-public class App {
+public class IsogramCounter {
     public static void main(String[] args) {
         String str = "Dermatoglyphics";
 
